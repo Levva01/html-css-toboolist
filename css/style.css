@@ -43,7 +43,7 @@ section{
 .button-style{
     padding: 10px;
     border: 1px solid lightgrey;
-    border-radius: 8%;
+    border-radius: 5px;
 }
 
 .add-task{
@@ -68,7 +68,7 @@ section div{
 .label-container{
     border: 0.5px solid lightgrey;
     padding: 5px;
-    border-radius: 35%;
+    border-radius: 12px;
     font-size: 10px;
     color: white;
 }
@@ -98,15 +98,18 @@ section div{
 }
 
 span{
-    font-weight: bold;
+    font-weight: 600;
     color: rgb(68, 72, 81);
 }
 
 .checkcross-container{
     border: 1px solid;
     border-radius: 100%;
-    padding: 2px;
+    padding: 2px 3.5px;
     margin-right: 5px;
+    font-size: 10px;
+    vertical-align: middle;
+    width: 10px;
 }
 
 .cross{
@@ -115,6 +118,6 @@ span{
 }
 
 .check{
-    color: green;
-    border-color: green;
+    color: rgb(130, 207, 190);
+    border-color: rgb(130, 207, 190);
 }
