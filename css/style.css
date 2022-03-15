@@ -29,6 +29,7 @@ main{
     margin: 0 auto;
     background-color: white;
     margin-top: 50px;
+    border-radius: 1%;
 }
 
 section{
@@ -37,4 +38,20 @@ section{
 
 #buttons-container{
     padding: 10px 20px;
+}
+
+.button-style{
+    padding: 10px;
+    border: 1px solid lightgrey;
+    border-radius: 8%;
+}
+
+.add-task{
+    background-color: rgb(71, 173, 241);
+    color: white;
+}
+
+.add-section{
+    color: lightgrey;
+    background-color: white;
 }
