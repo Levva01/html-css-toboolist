@@ -30,3 +30,11 @@ main{
     background-color: white;
     margin-top: 50px;
 }
+
+section{
+    padding: 20px;
+}
+
+#buttons-container{
+    padding: 10px 20px;
+}
