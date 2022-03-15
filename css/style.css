@@ -22,3 +22,11 @@ header h1{
 header img{
     vertical-align: middle;
 }
+
+main{
+    width: 70%;
+    height: 580px;
+    margin: 0 auto;
+    background-color: white;
+    margin-top: 50px;
+}
