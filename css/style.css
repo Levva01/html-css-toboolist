@@ -102,3 +102,19 @@ span{
     color: rgb(68, 72, 81);
 }
 
+.checkcross-container{
+    border: 1px solid;
+    border-radius: 100%;
+    padding: 2px;
+    margin-right: 5px;
+}
+
+.cross{
+    border-color: red;
+    color: red;
+}
+
+.check{
+    color: green;
+    border-color: green;
+}
