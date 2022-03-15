@@ -1,0 +1,24 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgba(246, 248, 249, 1);
+    font-family: 'Roboto', sans-serif;
+}
+
+header{
+    background-color: white;
+    padding: 20px;
+}
+
+header h1{
+    display: inline-block;
+    vertical-align: middle;
+}
+
+header img{
+    vertical-align: middle;
+}
